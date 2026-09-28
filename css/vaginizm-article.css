@@ -1,0 +1,270 @@
+/* Article page layout (vaginizm.html) */
+#article-main {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 24px 16px 40px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #2B2320;
+}
+
+.article-wrap {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #2B2320;
+}
+
+/* Hero / top section */
+.article-hero {
+  padding: 40px 28px 32px;
+  margin-bottom: 24px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.article-hero h1 {
+  font-size: clamp(28px, 5.5vw, 38px);
+  color: #3A1420;
+  line-height: 1.2;
+}
+
+.article-hero p {
+  max-width: 620px;
+  font-size: clamp(15px, 2.6vw, 17px);
+  color: #4A3B34;
+  margin: 0;
+}
+
+/* Inline CTA (small) */
+.article-cta-inline {
+  margin-top: 8px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Content sections */
+.article-section {
+  padding: 26px 24px 28px;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.article-section h2 {
+  font-size: clamp(22px, 5vw, 28px);
+  color: #3A1420;
+  margin-bottom: 4px;
+}
+
+.article-section h3 {
+  font-size: clamp(17px, 4vw, 20px);
+  color: #6B2737;
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.article-section p,
+.article-section ul,
+.article-section ol {
+  font-size: clamp(15px, 2.4vw, 16px);
+  line-height: 1.75;
+  color: #3A2F29;
+  margin: 0;
+}
+
+.article-section ul,
+.article-section ol {
+  padding-left: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.article-section li {
+  line-height: 1.7;
+}
+
+/* Highlight / note boxes */
+.note-box {
+  margin-top: 4px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(107,39,55,.06);
+  border-left: 4px solid #E8917A;
+  font-size: 15px;
+  color: #3A2F29;
+}
+
+/* Myths table (desktop) / cards (mobile) */
+.myths-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 4px;
+  font-size: 15px;
+}
+
+.myths-table th,
+.myths-table td {
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(107,39,55,.14);
+}
+
+.myths-table th {
+  font-size: 13px;
+  color: #6B2737;
+  text-transform: uppercase;
+  letter-spacing: .4px;
+}
+
+.myths-table td:first-child {
+  max-width: 45%;
+  color: #8A394D;
+}
+
+/* Final CTA block */
+.article-final-cta {
+  padding: 36px 28px;
+  margin-top: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+}
+
+.article-final-cta h2 {
+  font-size: clamp(26px, 5.5vw, 32px);
+  color: #3A1420;
+}
+
+.article-final-cta p {
+  max-width: 580px;
+  font-size: clamp(15px, 2.6vw, 17px);
+  line-height: 1.7;
+  color: #4A3B34;
+  margin: 0;
+}
+
+.article-final-cta .cta-buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+/* FAQ accordion styles */
+.faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.faq-item {
+  border-radius: 14px;
+  padding: 12px 14px;
+  background: rgba(107,39,55,.04);
+  overflow: hidden;
+}
+
+.faq-question {
+  width: 100%;
+  text-align: left;
+  border: none;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #3A1420;
+  cursor: pointer;
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease, margin-top .25s ease;
+  font-size: 15px;
+  color: #3A2F29;
+  line-height: 1.7;
+}
+
+.faq-item.open .faq-answer {
+  margin-top: 8px;
+}
+
+/* Myths as card rows (div-based) */
+.myth-row {
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(107,39,55,.04);
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.myth {
+  color: #8A394D;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.truth {
+  color: #2B2320;
+  font-size: 15px;
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  #article-main { padding: 14px 8px 30px; }
+  .article-wrap { font-size: 15px; }
+  .article-hero,
+  .article-section,
+  .article-final-cta {
+    padding: 20px 14px !important;
+  }
+
+  /* Myths as cards on mobile */
+  .myths-table,
+  .myths-table thead,
+  .myths-table tbody,
+  .myths-table th,
+  .myths-table tr {
+    display: block;
+  }
+  .myths-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+  }
+  .myths-table tr {
+    margin-bottom: 12px;
+    background: rgba(107,39,55,.04);
+    border-radius: 14px;
+    padding: 10px 12px;
+  }
+  .myths-table td {
+    border: none;
+    padding: 4px 0;
+  }
+  .myths-table td:first-child {
+    max-width: 100%;
+    font-weight: 600;
+    color: #8A394D;
+    margin-bottom: 2px;
+  }
+}

@@ -17,6 +17,12 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+.header-link {
+  font-size: 13px;
+  margin-left: 10px;
+  opacity: 0.9;
+}
 button {
   font-family: 'Karla', sans-serif;
   cursor: pointer;

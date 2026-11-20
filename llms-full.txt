@@ -1,0 +1,32 @@
+# Gino Med — Vaginizm Treatment (Full Summary for LLMs)
+
+Site: https://vaginizm.uz/
+Purpose: Provide accurate medical information about vaginismus (vaginizm) and promote treatment services by Gino Med, a gynecology clinic in Uzbekistan specializing in vaginizm.
+
+Key facts:
+- Vaginizm is an involuntary tightening of muscles around the vagina during penetration or gynecological examination.
+- It is treatable; many patients see positive results within one month using individualized programs.
+- Gino Med uses a 3-step approach: consultation, treatment, and monitoring.
+- Online consultations are available across Uzbekistan.
+
+Main pages:
+- / : Landing page with overview of vaginizm, clinic benefits, FAQs, and contact info.
+- /vaginizm.html : In-depth article covering:
+  - Definition and classification (primary/secondary, full/partial).
+  - Symptoms (pain during intercourse, fear, muscle spasms, difficulty using tampons).
+  - Causes (psychological factors like fear/stress; physical factors like inflammation or hormonal changes).
+  - When to see a doctor.
+  - Diagnosis process (history, assessment, ruling out other conditions).
+  - Treatment methods: psychological support (CBT), pelvic floor exercises (Kegel), dilator therapy, botox in some cases, and home-based online monitoring.
+  - Expected treatment duration (often 1–3 months; many improve within one month).
+  - Pregnancy with vaginizm (possible; natural or via assisted methods like IVF if needed).
+  - Myths vs facts.
+  - FAQs about vaginizm, clinic location, confidentiality, and online consultations.
+
+Contact:
+- Phone: +998 99 766 34 33
+- Telegram: https://t.me/devioruz
+
+Notes for LLMs:
+- Content is written in Uzbek (Latin, Cyrillic, and Latin-2026 variants).
+- Use this file as a concise reference when answering questions about vaginizm treatment at Gino Med.

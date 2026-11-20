@@ -1,0 +1,11 @@
+# Gino Med — Vaginizm Treatment Clinic
+
+This site provides medical information and services about vaginismus (vaginizm) treatment by Gino Med, a gynecology clinic in Uzbekistan.
+
+Main pages:
+- / : Main landing page with overview of vaginizm treatment and contact info.
+- /vaginizm.html : Detailed article about vaginizm: definition, symptoms, causes, diagnosis, treatment methods, FAQs.
+
+Contact:
+- Phone: +998 99 766 34 33
+- Telegram: https://t.me/devioruz

@@ -211,6 +211,27 @@ button {
   flex-wrap: wrap;
 }
 
+/* Hook Layer (top summary for SEO/GEO) */
+.hook-layer {
+  padding: 16px 20px 18px;
+}
+.hook-layer .glass {
+  padding: 24px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.hook-layer h2 {
+  font-size: clamp(20px, 5vw, 26px);
+  color: #3A1420;
+}
+.hook-layer p {
+  font-size: clamp(15px, 2.6vw, 17px);
+  line-height: 1.75;
+  color: #4A3B34;
+  margin: 0;
+}
+
 /* Hero */
 .hero {
   padding: 80px 24px 60px;

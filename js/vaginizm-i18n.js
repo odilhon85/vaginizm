@@ -6,12 +6,16 @@
   const latContent = {
     heroTitle: "Vaginizm nima? Belgilari, sabablari va davolash usullari",
     heroIntro: "Vaginizm — ayollarda uchraydigan keng tarqalgan, lekin ko'pincha yashirin saqlanadigan muammo. Bu sahifada sizga vaginizm nima ekanligi, uning belgilari va sabablari, qanday davolanishi hamda Gino Med klinikasining yondashuvi haqida batafsil ma'lumot beramiz. Asosiy gap: vaginizm — bu davolanadigan holat.",
+
+    aiSummaryTitle: "Qisqacha xulosa (LLM/SEO uchun)",
+    aiSummaryText: "Vaginizm — qin atrofidagi mushaklarning jinsiy aloqa yoki ginekologik ko‘rik paytida ixtiyorsiz qisqarishi bilan o‘tadigan holat. Bu tananing avtomatik himoya reaksiyasi bo‘lib, bemorning aybi emas. Vaginizm to‘g‘ri davolash bilan bartaraf etiladi; ko‘pchilik bemorlarda bir oy ichida aniq ijobiy o‘zgarishlar kuzatiladi. Gino Med — O‘zbekistondagi vaginizm bo‘yicha ixtisoslashgan ginekologiya klinikasi. Biz individual 3 bosqichli dastur asosida ishlaymiz: konsultatsiya, davolash va nazorat; har bir bosqich taxminan bir hafta davom etadi.",
+
     ctaCall: "Qo'ng'iroq qilish",
     ctaTelegram: "Telegram orqali yozish",
 
     /* Section: Vaginizm nima? */
     s1_title: "Vaginizm nima?",
-    s1_p1: 'Vaginizm — qin atrofidagi tos mushaklari jinsiy aloqa, ginekologik ko\'rik yoki tampon kiritish paytida ixtiyorsiz siqilishi bilan o\'tadigan holat. Bu mushaklar odamning xohishiga bog\'liq emas — ya\'ni bemor "o\'zini tuta olmasligi" yoki "istamay qotib qolishi" emas, balki tananing avtomatik himoya reaksiyasi.',
+    s1_p1: 'Vaginizm — qin atrofidagi tos mushaklari jinsiy aloqa, ginekologik ko\'rik yoki tampon kiritish paytida ixtiyorsiz qisqarishi bilan o\'tadigan holat. Bu mushaklar odamning xohishiga bog\'liq emas — ya\'ni bemor "o\'zini tuta olmasligi" yoki "istamay qotib qolishi" emas, balki tananing avtomatik himoya reaksiyasi.',
     s1_p2: 'Qanchalik keng tarqalgan? Tadqiqot ma\'lumotlariga ko\'ra, dunyoda ayollarning taxminan 1–7%i vaginizmdan azoblanadi va u og\'riqli jinsiy aloqa (dizpareuniya) sabablarining eng yuqorilaridan biri hisoblanadi.',
     s1_p3: 'Ilmiy tasnif. Vaginizm atamasi 1862-yilda taniqli jarroh James Marion Sims tomonidan kiritilgan. Zamonaviy psixiatriya qo\'llanmasida (DSM-5) u "genito-pelvik og\'riq/penetratsiya buzilishi" guruhiga kiradi — ya\'ni bu tan olingan, ilmiy asoslangan tibbiy holat.',
     s1_sub: "Vaginizm tasniflanishlari:",
@@ -157,6 +161,10 @@
   const cyrContent = {
     heroTitle: "Вагинизм нима? Белгилари, сабаблари ва даволаш усуллари",
     heroIntro: "Вагинизм — аёлларда учрайдиган кенг тарқалган, лекин ко'пинча яширин сақланадиган муаммо. Бу саҳифада сизга вагинизм нима эканлиги, унинг белгилари ва сабаблари, қандай даволаниши ҳамда Gino Med клиникасининг ёндашуви ҳақида батафсил маълумот берамиз. Асосий гап: вагинизм — бу даволанадиган ҳолат.",
+
+    aiSummaryTitle: "Қисқача хулоса (LLM/SEO учун)",
+    aiSummaryText: "Вагинизм — қин атрофидаги мушакларнинг жинсий алоқа ёки гинекологик кўрик пайтида ихтиёрсиз қисқариши билан ўтадиган ҳолат. Бу тананинг автоматик ҳимоя реакцияси бўлиб, беморнинг айби эмас. Вагинизм тўғри даволаш билан бартараф этилади; кўпчилик беморlarda бир ой ичида аниқ ижобий ўзгаришлар кузатилади. Gino Med — Ўзбекистондаги вагинизм бўйича ихтисослашган гинекология клиникаси. Биз индивидуал 3 босқичли дастур асосида ишлаймиз: консультация, даволаш ва назорат; ҳар бир босқич тахминан бир ҳафта давом этади.",
+
     ctaCall: "Қўнғироқ қилиш",
     ctaTelegram: "Telegram орқали ёзиш",
 
@@ -308,6 +316,10 @@
   const lat26Content = {
     heroTitle: "Vaginizm nima? Belgilari, sabablari va davolaş usulları",
     heroIntro: "Vaginizm — ayollarda uçraydigan keng tarqalgan, lekin köpınça yaşirin saqlanadigan muammo. Bu sahifada sizga vaginizm nima ekanligi, uning belgilari va sabablari, qanday davolanışı hamda Gino Med klinikasining yondaşuvi haqida batafsil ma'lumot beramiz. Asosiy gap: vaginizm — bu davolanadigan holat.",
+
+    aiSummaryTitle: "Qisqaça xulosa (LLM/SEO üçün)",
+    aiSummaryText: "Vaginizm — qin atrofidagi mushaklarning jinsiy aloqa yoki ginekologik körik paytida ixtiyorsiz qisqarişi bilan ötädiğan holat. Bu tananing avtomatik himoya reaksiyasi bo‘lib, bemorning aybi emas. Vaginizm toğri davolaş bilan bartaraf etiladi; köpçilik bemorlarda bir oy içida aniq ijobiy özgarişlar kuzatiladi. Gino Med — Özbekistondagi vaginizm bo'yicha ixtisoslaşğan ginekologiya klinikasi. Biz individual 3 bosqiçli dastur asosida ișlaymiz: konsultatsiya, davolaş va nazorat; har bir bosqiç taxminan bir hafta davom etadi.",
+
     ctaCall: "Qönğiroq qiliş",
     ctaTelegram: "Telegram orqali yoziş",
 
@@ -479,6 +491,14 @@
     h += '<a href="tel:+998997663433" class="btn btn-solid">' + (C.ctaCall||'') + '</a>';
     h += '<a href="https://t.me/devioruz" target="_blank" rel="noopener noreferrer" class="btn btn-outline glass-chip">' + (C.ctaTelegram||'') + '</a>';
     h += '</div></section>';
+
+    /* AI SUMMARY for LLMs/SEO */
+    if (C.aiSummaryTitle || C.aiSummaryText) {
+      h += '<section class="glass article-section">';
+      if (C.aiSummaryTitle) h += '<h2>' + C.aiSummaryTitle + '</h2>';
+      if (C.aiSummaryText) h += '<p>' + C.aiSummaryText + '</p>';
+      h += '</section>';
+    }
 
     if (C.s1_title) {
       h += '<section class="glass article-section"><h2>' + C.s1_title + '</h2>';

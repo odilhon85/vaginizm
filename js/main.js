@@ -2,6 +2,9 @@
 const DICT = {
   cyr: {
     langLabel:"Ўзбекча", navPhone:"+998 99 766 34 33", telegramText:"Telegram орқали ёзиш",
+    hookTitle:"Вагинизм ҳақида қисқача маълумот",
+    hookLink:"Вагинизм ҳақида батафсил маълумот олиш учун →",
+    hookText:"Вагинизм — қин атрофидаги мушакларнинг жинсий алоқа ёки гинекологик кўрик пайтида ихтиёрсиз қисқариши билан ўтадиган ҳолат. Бу тананинг автоматик ҳимоя реакцияси бўлиб, беморнинг айби эмас. Вагинизм тўғри даволаш билан бартараф этилади. Gino Med клиникасида асосий даволаш дастури тахминан бир ҳафта давом этади; кўпчилик беморлар бутунлай соғайиб, нормал ҳаётга қайтади. Баъзи ҳолларда тўлиқ тикланиш бир ой ичида амалга оширилади. Биз индивидуал 3 босқичли дастур асосида ишлаймиз: консультация, даволаш ва назорат; ҳар бир босқич тахминан бир ҳафта давом этади. Дастurga психологик ёрдам, тос мушаклари машқлари (Кегел) ва онлайн назорат киради. 1 йилдан 7 йилгача давом этган ҳолатлар ҳам муваффақиятли даволаган. Ўзбекистоннинг исталган шаҳридан онлайн консультация орқали мурожаат қилишингиз мумкин. Махфийлик ва ҳурмат — бизнинг асосий тамойилларимиз. Баъзи беморlarda қўшимча равишда махсус дилаторлар билан машғулотлар ёки ботокс (ботулин токсини) каби усуллар ҳам тавсия этилиши мумкин; бу ҳар бир ҳолатга қараб шифокор томонидан белгиланади.",
     heroTitle:"Вагинизм — бу даволанадиган ҳолат",
     heroSubtitle:"Gino Med клиникасида замонавий, хавфсиз ва самарали даволаш дастури орқали кўплаб аёллар эркин ва соғлом ҳаётга қайтмоқда. Ўзбекистон бўйлаб онлайн консультация мавжуд.",
     ctaPrimary:"Қўнғироқ қилинг",
@@ -35,6 +38,9 @@ const DICT = {
   },
   lat: {
     langLabel:"O'zbekcha", navPhone:"+998 99 766 34 33", telegramText:"Telegram orqali yozish",
+    hookTitle:"Vaginizm haqida qisqacha ma’lumot",
+    hookLink:"Vaginizm haqida batafsil ma’lumot olish uchun →",
+    hookText:"Vaginizm — qin atrofidagi mushaklarning jinsiy aloqa yoki ginekologik ko‘rik paytida ixtiyorsiz qisqarishi bilan o‘tadigan holat. Bu tananing avtomatik himoya reaksiyasi bo‘lib, bemorning aybi emas. Vaginizm to‘g‘ri davolash bilan bartaraf etiladi. Gino Med klinikasida asosiy davolash dasturi taxminan bir hafta davom etadi; ko‘pchilik bemorlar butunlay sog‘ayib, normal hayotga qaytadi. Ba’zi hollarda to‘liq tiklanish bir oy ichida amalga oshiriladi. Biz individual 3 bosqichli dastur asosida ishlaymiz: konsultatsiya, davolash va nazorat; har bir bosqich taxminan bir hafta davom etadi. Dasturga psixologik yordam, tos mushaklari mashqlari (Kegel) va onlayn nazorat kiradi. 1 yildan 7 yilgacha davom etgan holatlar ham muvaffaqiyatli davolangan. O‘zbekistonning istalgan shahridan onlayn konsultatsiya orqali murojaat qilishingiz mumkin. Maxfiylik va hurmat — bizning asosiy tamoyillarimiz. Ba’zi bemorlarda qo‘shimcha ravishda maxsus dilatorlar bilan mashg‘ulotlar yoki botoks (botulin toksini) kabi usullar ham tavsiya etilishi mumkin; bu har bir holatga qarab shifokor tomonidan belgilanadi.",
     heroTitle:"Vaginizm — bu davolanadigan holat",
     heroSubtitle:"Gino Med klinikasida zamonaviy, xavfsiz va samarali davolash dasturi orqali ko'plab ayollar erkin va sog'lom hayotga qaytmoqda. O‘zbekiston bo‘ylab online konsultatsiya mavjud.",
     ctaPrimary:"Qo‘ng‘iroq qiling",
@@ -68,6 +74,9 @@ const DICT = {
   },
   lat26: {
     langLabel:"Özbekça", navPhone:"+998 99 766 34 33", telegramText:"Telegram orqali yozish",
+    hookTitle:"Vaginizm haqida qisqaça ma’lumot",
+    hookLink:"Vaginizm haqida batafsil ma’lumot olish üçün →",
+    hookText:"Vaginizm — qin atrofidagi mushaklarning jinsiy aloqa yoki ginekologik körik paytida ixtiyorsiz qisqarişi bilan ötädiğan holat. Bu tananing avtomatik himoya reaksiyasi bo‘lib, bemorning aybi emas. Vaginizm toğri davolaş bilan bartaraf etiladi. Gino Med klinikasida asosiy davolaş dasturi taxminan bir hafta davom etadi; köpçilik bemorlar butunlay soğayib, normal hayotga qaytadi. Ba’zi hollarda to‘liq tiklaniş bir oy içida amalga oşiriladi. Biz individual 3 bosqiçli dastur asosida ișlaymiz: konsultatsiya, davolaş va nazorat; har bir bosqiç taxminan bir hafta davom etadi. Dasturga psixologik yordam, tos mushaklari maşqları (Kegel) va onlayn nazorat kiradi. 1 yildan 7 yilgacha davom etgan holatlar ham muvaffaqiyatli davolangan. Özbekistonning istalgan şahridan onlayn konsultatsiya orqali murojaat qilişińiz mumkin. Maxfiylik va hurmat — bizning asosiy tamoyillarimiz. Ba’zi bemorlarda qo‘şimça ravishda maxsus dilatorlar bilan maşğulotlar yoki botox (botulin toksini) kabi usullar ham tavsiya etilişi mumkin; bu har bir holatga qarağ şifokor tomonidan belgilanadi.",
     heroTitle:"Vaginizm — bu davolanadigan holat",
     heroSubtitle:"Gino Med klinikasida zamonaviy, xavfsiz va samarali davolaş dasturi orqali köplab ayollar erkin va soğlom hayotga qaytmoqda. Özbekiston bo‘ylab online konsultatsiya mavjud.",
     ctaPrimary:"Qönğiroq qiliş",
